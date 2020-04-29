@@ -1,0 +1,9 @@
+div, p,h1,h2,h3,h4,h5,span,*,a,button,footer{
+    background-color:rgb(27, 27, 27)  !important;
+    color: rgb(216, 212, 207) !important;
+    border-color:rgb(216,212,207) !important;
+}
+
+
+
+
